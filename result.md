@@ -96,4 +96,5 @@
 <td align="center"><a href="https://github.com/tridib2003"><img src="https://avatars3.githubusercontent.com/tridib2003?size=400" width="100px;" alt=""/><br /><sub><b>Tridib Samanta</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=tridib2003" title="Code"> :computer: </a> </td>
 <td align="center"><a href="https://github.com/drd3rp"><img src="https://avatars3.githubusercontent.com/drd3rp?size=400" width="100px;" alt=""/><br /><sub><b>Tristan Brown</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=drd3rp" title="Code"> :computer: </a> </td>
 <td align="center"><a href="https://github.com/VatsalNarwal"><img src="https://avatars3.githubusercontent.com/VatsalNarwal?size=400" width="100px;" alt=""/><br /><sub><b>Vatsal Narwal</b></sub></a><br /><a href="https://github.com/keshavsingh4522/hacktoberfest2020/commits?author=VatsalNarwal" title="Code"> :computer: </a> </td>
-</tr></table>
+<tr><td align="center"><a href="https://github.com/rahulgithub-web"><img src="https://avatars3.githubusercontent.com/rahulgithub-web?size=400" width="100px;" alt=""/><br /><sub><b>Rahul Kumar</b></sub></a><br /><a href="https://github.com/rahulgithub-web/hacktoberfest2022/commits?author=RahulKumar" title="Code"> :computer: </a> </td>
+</tr>
